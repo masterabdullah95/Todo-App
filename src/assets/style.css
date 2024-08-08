@@ -1,0 +1,56 @@
+body{
+    background-color: var(--body_background);
+    color: var(--body_color);
+}
+input:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+.todolistmain{
+    background: white;
+    border: 1px solid lightgray;
+    color: black;
+    border-radius: 5px;
+}
+.todoItemText{
+    font-size: 20px;
+    margin: 7px 0px;
+}
+.check-btn svg{
+    font-size: 27px;
+    color: green;
+}
+.delete-btn svg{
+    font-size: 27px;
+    color: red;
+}
+.check-btn, .delete-btn{
+    border: 0;
+}
+.addTodoBtn{
+    width: 30%;
+}
+.nav-tabs{
+    cursor: pointer;
+}
+.nav-link{
+    color: var(--body_color);
+}
+.nav-link:hover{
+    color: var(--body_color);
+}
+del{
+    color: red;
+}
+.theme-toggle-div svg{
+    font-size: 40px;
+    cursor: pointer;
+}
+[data-theme='dark']{
+    --body_color: white;
+    --body_background: #001519; 
+}
+[data-theme='light']{
+    --body_color: black;
+    --body_background: white; 
+}
