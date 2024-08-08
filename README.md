@@ -10,3 +10,5 @@ This is a Todo app developed using React and javascript. You can check the live 
 8) Realtime date and timer
 9) Search functionality
 10) Todo filters for complete and incomplete 
+
+You can clone this repository and run it by this command "npm run dev"
