@@ -1,8 +1,12 @@
-# React + Vite
+This is a Todo app developed using React and javascript. You can check the live demo of this app here https://todoapp-abdul.netlify.app I have added some features to it which are listed below:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1) Add todo
+2) Remove todo
+3) Mark/Unmark todo as complete or incomplete
+4) Used React-Toastify library for notifications https://www.npmjs.com/package/react-toastify
+5) Used react icons library https://react-icons.github.io
+6) Used Bootstrap for styling https://getbootstrap.com
+7) Day/night theme mode
+8) Realtime date and timer
+9) Search functionality
+10) Todo filters for complete and incomplete 
