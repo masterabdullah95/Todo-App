@@ -12,3 +12,5 @@ This is a Todo app developed using React and javascript. You can check the live 
 10) Todo filters for complete and incomplete 
 
 You can clone this repository and run it by this command "npm run dev"
+
+Open http://localhost:3000 with your browser to see the result.
