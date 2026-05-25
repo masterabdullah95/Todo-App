@@ -1,16 +1,57 @@
-This is a Todo app developed using React and javascript. You can check the live demo of this app here https://todoapp-abdul.netlify.app I have added some features to it which are listed below:
+# ✅ React Todo App
 
-1) Add todo
-2) Remove todo
-3) Mark/Unmark todo as complete or incomplete
-4) Used React-Toastify library for notifications https://www.npmjs.com/package/react-toastify
-5) Used react icons library https://react-icons.github.io
-6) Used Bootstrap for styling https://getbootstrap.com
-7) Day/night theme mode
-8) Realtime date and timer
-9) Search functionality
-10) Todo filters for complete and incomplete 
+A clean, feature-rich Todo application built with **React** and **JavaScript** — with theme switching, real-time clock, search, and smart filtering.
 
-You can clone this repository and run it by this command "npm run dev"
+🔗 **Live Demo:** [todoapp-abdul.netlify.app](https://todoapp-abdul.netlify.app)
 
-Open http://localhost:3000 with your browser to see the result.
+---
+
+## ✨ Features
+
+- ➕ Add and remove todos
+- ✔️ Mark todos as complete or incomplete
+- 🔍 Search through your todos instantly
+- 🔽 Filter by complete / incomplete
+- 🌙 Day / Night theme toggle
+- 🕐 Real-time date and clock
+- 🔔 Toast notifications
+
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org) — UI library
+- [React-Toastify](https://www.npmjs.com/package/react-toastify) — notifications
+- [React Icons](https://react-icons.github.io) — icon library
+- [Bootstrap](https://getbootstrap.com) — styling
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js installed
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/masterabdullah95/todo-app.git
+
+# Navigate into the project
+cd todo-app
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+Then open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
